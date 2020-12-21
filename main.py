@@ -10,6 +10,8 @@
 # Everytime open project
 # Ctrl + Shift + P -> Terminal: Create New Integrated Terminal
 
+# Pylance extension
+# "python.languageServer": "Pylance"
 
 # Git
 #    Open the command line.
